@@ -30,11 +30,16 @@ and software development.
 
 ### `github_telemetry`
 
+
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shevener&layout=compact&hide_border=true&bg_color=050816&title_color=8FB8FF&text_color=C9D7F2" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shevener&layout=compact&langs_count=8&card_width=450&hide_border=true&bg_color=050816&title_color=8FB8FF&text_color=C9D7F2"
+  width="450"
+/>
 
 </div>
+
 
 
 ---
