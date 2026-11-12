@@ -32,13 +32,7 @@ and software development.
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shevener&show_icons=true&hide_border=true&bg_color=050816&title_color=8FB8FF&text_color=C9D7F2&icon_color=8FB8FF&rank_icon=github" />
-
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shevener&layout=compact&hide_border=true&bg_color=050816&title_color=8FB8FF&text_color=C9D7F2" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shevener&hide_border=true&background=050816&ring=8FB8FF&fire=8FB8FF&currStreakLabel=8FB8FF&sideLabels=C9D7F2&dates=7F91B5&currStreakNum=E6F0FF&sideNums=E6F0FF" />
 
 </div>
 
